@@ -2,13 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
+This website is a study guide for the web development bootcamp course. It is sectioned off by subject, with each section containing info and examples of each topic in full stack web development. I built this project to help my understanding of web development and to get me prepared for the work to come in the bootcamp. This will help organize notes by topic as well as boost my skills in full stack literacy. I learned how to integrate my work with Github which will allow me to collaberate with other developers and become successful.
 
 ## Installation
 
